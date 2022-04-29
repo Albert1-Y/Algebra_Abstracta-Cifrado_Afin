@@ -9,7 +9,7 @@
 
 ![image](https://4.bp.blogspot.com/-reJYsGmkYKE/VbQptwS18qI/AAAAAAAAAl0/IgcbhjB9fpA/s1600/afin.png)
 
-##Instrucciones:
+## Instrucciones:
 
 -El programa pedira al usuario ingresar 2 numeros, el primer para darle el valor de "a", el segundo para darle el valor de "b"
 -El programa pedira al usuario ingresar una cadena para luego ver que es lo que se desea hacer, si es encriptar o desencriptar.
