@@ -38,16 +38,11 @@ def descifrarAfin(m, clave):
 
 if __name__ == "__main__":
 
-    a=(int(input("ingrese a: ")))
-    n=(int(input("ingrese n: ")))
-    print(inverso(a,n))
-
-    print()
-
     clave =[4,7]
 
     m1 = "ELEMENTALMIQUERIDOWATSON"
     m2 = "WXWBWFGHXBMUKWYMSNRHGCNF"
+    
     print(cifrarAfin(m1,clave))
     print(descifrarAfin(m2,clave))
 
