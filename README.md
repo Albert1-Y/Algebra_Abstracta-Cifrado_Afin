@@ -7,14 +7,7 @@
 
 -Para hallar el símbolo del alfabeto cifrado que sustituye a un determinado símbolo del alfabeto en claro, se usa una función matemática afín en aritmética modular. Para poder aplicar la función matemática lo primero que hay que hacer es asignar un orden que a cada símbolo de cada uno de los alfabeto le asocie un número de orden. Una vez establecido esto, la fórmula matemática tiene la siguiente forma:
 
-{\displaystyle c_{i}=(a*m_{i}+b)\mod \ n}{\displaystyle c_{i}=(a*m_{i}+b)\mod \ n}
-Donde:
-
-{\displaystyle c_{i}}c_i: Identifica el símbolo i del texto cifrado
-a: Se la llama constante de decimación
-{\displaystyle m_{i}}{\displaystyle m_{i}}: Identifica el símbolo i del texto en claro
-b: Se la llama constante de desplazamiento
-n: Es el número de símbolos del alfabeto de cifrado (el orden)
+	![image](https://wikimedia.org/api/rest_v1/media/math/render/svg/5a5a20818ea69c9bca8c05c73b9d6815ed6de210)
 
 ##Instrucciones:
 
