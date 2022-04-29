@@ -7,7 +7,7 @@
 
 -Para hallar el símbolo del alfabeto cifrado que sustituye a un determinado símbolo del alfabeto en claro, se usa una función matemática afín en aritmética modular. Para poder aplicar la función matemática lo primero que hay que hacer es asignar un orden que a cada símbolo de cada uno de los alfabeto le asocie un número de orden. Una vez establecido esto, la fórmula matemática tiene la siguiente forma:
 
-![image](https://wikimedia.org/api/rest_v1/media/math/render/svg/5a5a20818ea69c9bca8c05c73b9d6815ed6de210)
+![image](https://4.bp.blogspot.com/-reJYsGmkYKE/VbQptwS18qI/AAAAAAAAAl0/IgcbhjB9fpA/s1600/afin.png)
 
 ##Instrucciones:
 
